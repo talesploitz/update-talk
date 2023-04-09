@@ -1,3 +1,5 @@
+report all bugs to tale#7242, (scripts not working, not loading stuff like that)
+
 chaos hub released, added more misc scripts
 
 phantom forces hub added hitbox extender+ski hub
@@ -5,7 +7,9 @@ phantom forces hub added hitbox extender+ski hub
 
 da hood hub added rayx as well at pluto
 
-universal hub, didnt fix the walkspeed/jumppower script yet just use the infinite yield stuff
+universal hub, didnt fix the walkspeed/jumppower script yet just use the infinite yield stuff, im not very interested on the continuation on this hub as i add most of the scripts to a misc section on my other hubs so kinda pointless
 
 
 loadstring alternatives released, loadstrings for all my hubs if you wanna use them (Starred it)
+
+bloxfruits hub on the way, might be released tommorow or today.
