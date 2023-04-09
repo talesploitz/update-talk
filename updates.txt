@@ -12,4 +12,4 @@ universal hub, didnt fix the walkspeed/jumppower script yet just use the infinit
 
 loadstring alternatives released, loadstrings for all my hubs if you wanna use them (Starred it)
 
-bloxfruits hub on the way, might be released tommorow or today.
+bloxfruits hub has been released, many scripts (any further keys on it im not responsible for)
